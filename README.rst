@@ -13,7 +13,7 @@ Collect, Analyze and Share Data!
    :target: https://opensource.org/licenses/BSD-3-Clause
 
 
-About
+About this project
 -----
 
 Ona is derived from the excellent `formhub <http://github.com/SEL-Columbia/formhub>`_ platform developed by the Sustainable Engineering Lab at Columbia University.
