@@ -18,7 +18,7 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.name preshcode007
-          git config --global user.email okiemenprecious@gmail
+          git config --global user.email okiemenprecious@gmail.com
 
       - name: Mirror to GitLab
         run: |
